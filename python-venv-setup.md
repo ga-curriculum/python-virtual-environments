@@ -215,3 +215,17 @@ And you'll see all the virtual environments that you've created.
 
 
 That's it!  Now you can create and use virtual environments on your machine.
+
+---
+
+# Now You Try
+
+Set up your own virtual environment:
+- Create an environment
+- Activate it
+- Install the following libraries:
+  - numpy
+  - statsmodel
+  - matplotlib
+- Export your virtual environment configuration as `requirements.txt`
+- Deactivate your virtual environment
